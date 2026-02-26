@@ -73,4 +73,4 @@ Si prefieres ejecutarlo en tu máquina local:
 
 6. Ejecuta todas las celdas.
 
-Desarrollado como proyecto de Data Analysis.
+`Desarrollado como proyecto de Data Analysis como formación del curso Oracle Next Education en alianza con Alura Latam`
