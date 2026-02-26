@@ -28,13 +28,21 @@ El repositorio está organizado de la siguiente manera:
 Durante el Análisis Exploratorio de Datos, se generaron diversas visualizaciones (gráficos de torta, barras e histogramas) que revelaron patrones clave en el comportamiento de los clientes:
 
 1. **La barrera de los primeros meses:** Los histogramas de distribución mostraron que la gran mayoría de las cancelaciones ocurren en las etapas iniciales de la relación con el cliente (bajos meses de *tenure*). Si un cliente supera los primeros meses, su probabilidad de permanencia a largo plazo aumenta drásticamente.
+
    <img width="556" height="391" alt="image" src="https://github.com/user-attachments/assets/2efe4370-bc75-4355-a3d1-e71e18593ec8" />
+
 2. **El riesgo del contrato mensual:** El análisis cruzado por tipo de contrato evidenció que los clientes con contratos "Month-to-month" tienen una tasa de cancelación alarmantemente alta. Por el contrario, los contratos de 1 o 2 años garantizan una excelente retención.
+
    <img width="502" height="430" alt="image" src="https://github.com/user-attachments/assets/e1d73427-dbe6-450d-a8d7-f07613ee79db" />
+
 3. **La "Zona de Peligro" en los servicios contratados:** Mediante la creación de una nueva variable que suma los servicios de cada cliente, se descubrió una tendencia no lineal: tener 1 solo servicio es seguro, tener el ecosistema completo (5+ servicios) es muy seguro, pero **tener entre 2 y 4 servicios representa una zona altamente riesgosa** con los picos más altos de evasión.
+   
    <img width="617" height="449" alt="image" src="https://github.com/user-attachments/assets/2d36ce8f-aadd-4043-948a-0ffd3d8c993b" />
+   
 4. **Métodos de pago:** El uso de "Electronic check" está fuertemente correlacionado con el Churn, sugiriendo la necesidad de incentivar el débito automático.
+   
    <img width="524" height="496" alt="image" src="https://github.com/user-attachments/assets/cebc0714-f29b-422a-9760-b5cdf79ff707" />
+   
 ---
 
 ## 🚀 Instrucciones para ejecutar el Notebook
