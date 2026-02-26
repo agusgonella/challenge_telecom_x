@@ -1,4 +1,4 @@
-# 📊 Análisis de Evasión de Clientes (Churn) - TelecomX LATAM
+# 📊 Challenge Telecom X: Análisis de Evasión de Clientes
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![Pandas](https://img.shields.io/badge/Pandas-Data_Manipulation-150458.svg)
