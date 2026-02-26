@@ -76,4 +76,4 @@ Si prefieres ejecutarlo en tu máquina local:
 6. Ejecuta todas las celdas.
    
 ## Autora
-👩‍💻 Desarrollado por Agustina Gonella.
+- 👩‍💻 Desarrollado por Agustina Gonella.
