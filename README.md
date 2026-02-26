@@ -5,6 +5,8 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Data_Visualization-orange.svg)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626.svg)
 
+## Este proyecto forma parte del programa de formación Oracle Next Education (ONE) en colaboración con Alura Latam.
+
 ## 🎯 Propósito del Proyecto
 El objetivo principal de este proyecto es analizar la base de datos de clientes de la empresa de telecomunicaciones **TelecomX LATAM** para entender y mitigar el **Churn** (tasa de cancelación o evasión de clientes). 
 
@@ -72,5 +74,6 @@ Si prefieres ejecutarlo en tu máquina local:
 5. Comenta o elimina la celda correspondiente a from google.colab import drive (ya que es exclusiva de Colab) y actualiza la ruta del archivo JSON a tu ruta local (ej. pd.read_json('TelecomX_Data.json')).
 
 6. Ejecuta todas las celdas.
-
-`Desarrollado como proyecto de Data Analysis como formación del curso Oracle Next Education en alianza con Alura Latam`
+   
+## Autor
+👩‍💻 Desarrollado por Agustina Gonella.
